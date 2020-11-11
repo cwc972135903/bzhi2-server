@@ -4,21 +4,20 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>me.zhengjie</groupId>
-    <artifactId>eladmin</artifactId>
+    <groupId>com.bzhi2</groupId>
+    <artifactId>bzhi2</artifactId>
     <packaging>pom</packaging>
     <version>2.6</version>
 
     <modules>
-        <module>eladmin-common</module>
-        <module>eladmin-logging</module>
-        <module>eladmin-system</module>
-        <module>eladmin-tools</module>
-        <module>eladmin-generator</module>
+        <module>bzhi2-common</module>
+        <module>bzhi2-logging</module>
+        <module>bzhi2-system</module>
+        <module>bzhi2-tools</module>
+        <module>bzhi2-generator</module>
     </modules>
 
-    <name>EL-ADMIN 后台管理</name>
-    <url>http://auauz.net</url>
+    <name>BZHI2 后台管理</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
