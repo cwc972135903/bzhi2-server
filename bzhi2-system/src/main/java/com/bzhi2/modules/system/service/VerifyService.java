@@ -1,5 +1,5 @@
 /*
- *  Copyright 2019-2020 Zheng Jie
+ *  Copyright 2019-2020 bzhi2
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@ package com.bzhi2.modules.system.service;
 import com.bzhi2.domain.vo.EmailVo;
 
 /**
- * @author Zheng Jie
+ * @author bzhi2
  * @date 2018-12-26
  */
 public interface VerifyService {

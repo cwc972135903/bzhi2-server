@@ -1,5 +1,5 @@
 /*
- *  Copyright 2019-2020 Zheng Jie
+ *  Copyright 2019-2020 bzhi2
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ import com.bzhi2.domain.vo.TradeVo;
 import com.bzhi2.domain.AlipayConfig;
 
 /**
- * @author Zheng Jie
+ * @author bzhi2
  * @date 2018-12-31
  */
 public interface AliPayService {

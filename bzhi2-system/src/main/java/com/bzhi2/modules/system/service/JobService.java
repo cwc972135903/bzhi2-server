@@ -1,5 +1,5 @@
 /*
- *  Copyright 2019-2020 Zheng Jie
+ *  Copyright 2019-2020 bzhi2
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -26,7 +26,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
-* @author Zheng Jie
+* @author bzhi2
 * @date 2019-03-29
 */
 public interface JobService {
