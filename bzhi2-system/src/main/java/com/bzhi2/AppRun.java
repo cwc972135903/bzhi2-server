@@ -18,6 +18,7 @@ package com.bzhi2;
 import io.swagger.annotations.Api;
 import com.bzhi2.annotation.rest.AnonymousGetMapping;
 import com.bzhi2.utils.SpringContextHolder;
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory;
@@ -40,6 +41,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @EnableTransactionManagement
 @EnableJpaAuditing(auditorAwareRef = "auditorAware")
+@MapperScan(basePackages = "com.bzhi2.modules.**.dao")
 public class AppRun {
 
     public static void main(String[] args) {
