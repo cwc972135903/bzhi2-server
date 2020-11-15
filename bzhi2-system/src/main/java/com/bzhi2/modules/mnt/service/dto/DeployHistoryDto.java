@@ -20,7 +20,7 @@ import java.io.Serializable;
 import java.sql.Timestamp;
 
 /**
-* @author zhanghouying
+* @author BZhi2
 * @date 2019-08-24
 */
 @Data

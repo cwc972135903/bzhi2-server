@@ -27,7 +27,7 @@ import java.util.Vector;
 /**
  * 执行shell命令
  *
- * @author: ZhangHouYing
+ * @author: BZhi2
  * @date: 2019/8/10
  */
 @Slf4j

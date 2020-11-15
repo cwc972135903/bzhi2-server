@@ -18,7 +18,7 @@ package com.bzhi2.modules.mnt.websocket;
 import lombok.Data;
 
 /**
- * @author ZhangHouYing
+ * @author BZhi2
  * @date 2019-08-10 9:55
  */
 @Data

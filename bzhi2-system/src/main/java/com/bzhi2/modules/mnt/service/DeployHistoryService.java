@@ -26,7 +26,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author zhanghouying
+ * @author BZhi2
  */
 public interface DeployHistoryService {
 

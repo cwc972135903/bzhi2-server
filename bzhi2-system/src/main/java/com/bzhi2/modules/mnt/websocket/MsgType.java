@@ -16,7 +16,7 @@
 package com.bzhi2.modules.mnt.websocket;
 
 /**
- * @author ZhangHouYing
+ * @author BZhi2
  * @date 2019-08-10 9:56
  */
 public enum MsgType {

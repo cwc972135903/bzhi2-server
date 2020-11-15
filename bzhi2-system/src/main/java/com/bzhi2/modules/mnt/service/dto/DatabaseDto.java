@@ -21,7 +21,7 @@ import com.bzhi2.base.BaseDTO;
 import java.io.Serializable;
 
 /**
-* @author zhanghouying
+* @author BZhi2
 * @date 2019-08-24
 */
 @Getter

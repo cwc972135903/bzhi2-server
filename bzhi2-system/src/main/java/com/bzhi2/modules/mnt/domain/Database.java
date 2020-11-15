@@ -25,7 +25,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /**
-* @author zhanghouying
+* @author BZhi2
 * @date 2019-08-24
 */
 @Entity
